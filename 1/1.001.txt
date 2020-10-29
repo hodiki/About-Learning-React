@@ -1,0 +1,13 @@
+npm start 启动react项目
+npm test 运行项目测试
+npm build 项目打包
+package.json 项目描述/配置脚手架
+
+npm
+    ->cnpm
+    ->yarn 从本地找包装
+
+npm install xxx
+npm install xxx --save (同时添加到脚手架)
+npm install xxx -g (安装到命令行)
+npm install (将脚手架中的包全部安装到项目中)

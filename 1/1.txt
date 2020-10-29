@@ -1,0 +1,9 @@
+moment.js 日期处理类库
+
+react-avatar-editor 头像编辑器插件
+
+New era:
+
+fetch 一种HTTP数据请求的方式,是XMLHttpRequest的一种替代方案
+
+axios 基于 promise 的 HTTP 库
